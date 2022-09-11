@@ -18,7 +18,7 @@
 </div>
 
 ##
-### Posso não saber a solução, mais com certeza sei encontra-la.
+### Posso não saber a solução, mas com certeza sei encontra-la.
 ##
 <div>
   <a href="https://instagram.com/o_davi_pedroso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
