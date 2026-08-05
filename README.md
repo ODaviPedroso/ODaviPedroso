@@ -37,5 +37,5 @@ Tenho interesse em Arquitetura de Software, APIs REST, Docker, Cloud e boas prá
 
 ## 📫 Contato
 
-- LinkedIn
-- Email
+- linkedin.com/in/davi-pedroso
+- davialveskd4306@gmail.com
