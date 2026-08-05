@@ -1,35 +1,38 @@
 # 👋 Olá! Eu sou o Davi Pedroso
 
-Sou Desenvolvedor Back-end com experiência no desenvolvimento de sistemas corporativos utilizando **C#** e **.NET**.
+Sou Desenvolvedor Back-end com **4 anos de experiência em desenvolvimento de software**, atuando na criação, manutenção e evolução de sistemas corporativos utilizando o ecossistema .NET.
 
-Atualmente trabalho na **Useall Software**, desenvolvendo soluções voltadas ao ambiente empresarial, sempre buscando escrever código limpo, escalável e de fácil manutenção.
+Atualmente trabalho na **Useall Software**, desenvolvendo soluções para o mercado corporativo com foco em qualidade, performance e manutenção de longo prazo.
 
-Tenho interesse em Arquitetura de Software, APIs REST, Docker, Cloud e boas práticas de desenvolvimento.
+Tenho interesse em arquitetura de software, boas práticas de desenvolvimento, DevOps e computação em nuvem.
 
 ---
 
 ## 🚀 Tecnologias
 
-- C#
-- .NET
-- ASP.NET Core
-- SQL Server
-- Entity Framework
-- Docker
-- Git
+<div align="left">
+
+<img align="center" alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="center" alt=".NET" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+<img align="center" alt="SQL Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+<img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+</div>
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Atualmente
 
-- Sistema de Pedidos
-- API JWT Authentication
-- Clean Architecture
-- Microsserviços
+- 💼 Back-end Developer na Useall Software
+- ⚙️ Desenvolvimento de sistemas corporativos
+- 🔥 APIs REST
+- 🛢️ Banco de dados relacionais
+- 📚 Estudando Arquitetura de Software, Cloud e DevOps
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 (seus cards)
 
