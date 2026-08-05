@@ -1,36 +1,41 @@
-### Olá, Eu Sou o Davi Pedroso, bem vindo ao meu perfil
+# 👋 Olá! Eu sou o Davi Pedroso
 
-- 🔭 Estagiario Useall-Unesc Labs
-- 🌱Atualmento faço faculdade de ciencias da computação.
-- 📫 Contatar: davialveskd4306@gmail.com
-##
-<div align="left">
-  <a href="https://github.com/ODaviPedroso">
-  <img height="170px"  src="https://github-readme-stats.vercel.app/api?username=ODaviPedroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODaviPedroso&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+Sou Desenvolvedor Back-end com experiência no desenvolvimento de sistemas corporativos utilizando **C#** e **.NET**.
 
-##
-### Sempre aberto para novas oportunidades.
-##
-<div>
-  <a href="https://instagram.com/o_davi_pedroso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:davialveskd4306@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/davi-alves-66765820b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
+Atualmente trabalho na **Useall Software**, desenvolvendo soluções voltadas ao ambiente empresarial, sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
-    
-</div>
+Tenho interesse em Arquitetura de Software, APIs REST, Docker, Cloud e boas práticas de desenvolvimento.
 
+---
+
+## 🚀 Tecnologias
+
+- C#
+- .NET
+- ASP.NET Core
+- SQL Server
+- Entity Framework
+- Docker
+- Git
+
+---
+
+## 📌 Projetos em Destaque
+
+- Sistema de Pedidos
+- API JWT Authentication
+- Clean Architecture
+- Microsserviços
+
+---
+
+## 📈 GitHub Stats
+
+(seus cards)
+
+---
+
+## 📫 Contato
+
+- LinkedIn
+- Email
