@@ -32,12 +32,6 @@ Tenho interesse em arquitetura de software, boas práticas de desenvolvimento, D
 
 ---
 
-## 📊 GitHub Stats
-
-(seus cards)
-
----
-
 ## 📫 Contato
 
 - linkedin.com/in/davi-pedroso
