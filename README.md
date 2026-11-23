@@ -28,7 +28,7 @@ Tenho interesse em arquitetura de software, boas práticas de desenvolvimento, D
 - ⚙️ Desenvolvimento de sistemas corporativos
 - 🔥 APIs REST
 - 🛢️ Banco de dados relacionais
-- 📚 Estudando Arquitetura de Software, Cloud e DevOps
+- 📚 Estudando Cyber-Segurança, Cloud e DevOps
 
 ---
 
